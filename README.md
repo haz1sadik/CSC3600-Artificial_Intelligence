@@ -1,8 +1,8 @@
-# CSC3600-Artificial_Intelligence
+# CSC3600 - Artificial Intelligence
 
 <h3 align="center">A Bachelor's student of Computer Science at University Putra Malaysia(UPM)</h3>
 
-- 👨‍💻 This repository is for [course CSC3600 Artificial Intelligence](course CSC3600 Artificial Intelligence)
+- 👨‍💻 This repository is for course CSC3600 Artificial Intelligence 
 
 - 📫 How to reach me **223877@student.upm.edu.my**
 
