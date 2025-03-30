@@ -1,5 +1,4 @@
 import proplog
-
 print("\nNegation\n+--------+--------+")
 print("| %-6s | %-6s |" % ("p", "not(p)"))
 print("+--------+--------+")
